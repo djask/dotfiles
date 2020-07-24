@@ -10,7 +10,7 @@ nitrogen (wallpapers)
 a terminal emulator  
 tint2 if you want a taskbar  
 
-**usage**
+**usage**  
 alt-esc - toggle minimize  
 alt-enter - toggle maximize  
 win-e - exec an app launcher  
